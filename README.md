@@ -1,6 +1,6 @@
 # AlbopictusDiapause_RNAseq
 
-Multiple projects and publications have been completed and generated understanding expression difference of diapause and non-diapause at multiple timepoints during the Aedes albopictus lifecycle. However, now a better quality reference assembly exist and old data needs to be reanalyzed based on this reference. We will re-analyze the various diapause transcriptomes. Potentially, once all analyses are done against common refence, we may also look for clusters of genes that change across timepoints in a coordinated way.
+Multiple projects and publications have been completed and generated understanding expression difference of diapause and non-diapause at multiple timepoints during the Aedes albopictus lifecycle. However, now a better quality reference assembly exist and old data needs to be reanalyzed based on this reference. We will re-analyze the various diapause transcriptomes. Potentially, once all analyses are done against common refence, we may also look for clusters of genes that change across timepoints in a coordinated way (look into [Kostal et al 2017](https://www.pnas.org/content/114/32/8532) and [Dowle et al 2020](https://www.pnas.org/content/117/38/23960)).
 
 Previous studies:
 
