@@ -8,7 +8,7 @@ Previous studies:
   - NCBI Short Read Archive under BioProject accession PRJNA268379
 
 [Embryogenesis](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2013.0143)
-  - NCBI’s short read archive (SRA) under submission numbers SRA044835 and SRA051478
+  - NCBI’s short read archive (SRA) under submission number SRA051478 (illumina data only)
 
 [Pharate larval diapause](https://pubmed.ncbi.nlm.nih.gov/23913949/)
   -  NCBI’s short read archive under accession number SRA063587
