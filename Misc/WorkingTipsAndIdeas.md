@@ -17,3 +17,9 @@ fasterq-dump sra_directory/sra/SRR1663685.sra
 
 Considering you can only use fasterq-dump one file at a time, I'm not really sure what the most effective way to bring fastq files down from the sra site...
 
+### Most efficient way
+Apparently you can run fasterq-dump with a wildcard if you have prefetched the sra files to a local directory
+```
+prefetch --option-file SraAccList.txt
+fasterq-dump sra_directory/sra/*.sra
+```
